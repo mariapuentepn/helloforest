@@ -23,7 +23,7 @@ Las tecnologías que utilicé, son:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### 3. Objetivo del proyecto
-Aprender y comprender como es el flexbox en CSS3 e implementarlo a nuestro archivo HTML.
+Aprender y comprender como es el flexbox en CSS e implementarlo a nuestro archivo HTML.
 
 ### 4. Link a demo
 En el siguiente link puedes ver mi proyecto terminado: [Hello, Forest!](https://helloforest-tau.vercel.app/)

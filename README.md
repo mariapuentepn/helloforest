@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> trabaja de la mano con <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> para crear páginas web que usamos todos los días en el navegador. En este proyecto, realicé una página web para practicar lo que es el flexbox.
 
 ### 2. Qué construí
-En este proyecto me enfoqué en construir una página web para poder practicar lo que es el flexbox
+En este proyecto me enfoqué en construir una página web para poder practicar lo que es el flexbox.
+
 Contiene las siguientes secciones:
 
 - **Head:** Sección que involucra el nombre de la página y la conexión del archivo HTML con el CSS.
